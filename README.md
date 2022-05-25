@@ -1,3 +1,3 @@
 # spring5-reci-app
 
-testing trigger Circle CI
+testing trigger Circle CI v2
