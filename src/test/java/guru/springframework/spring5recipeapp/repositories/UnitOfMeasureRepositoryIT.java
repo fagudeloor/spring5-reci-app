@@ -26,7 +26,7 @@ public class UnitOfMeasureRepositoryIT {
     }
 
     @Test
-    @DirtiesContext
+//    @DirtiesContext
     public void findByDescription() {
         Optional<UnitOfMeasure> uomOptional = unitOfMeasureRepository.findByDescription("Teaspoon");
 
